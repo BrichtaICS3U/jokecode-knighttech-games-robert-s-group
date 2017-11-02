@@ -1,3 +1,0 @@
-print("What's the difference between a baby and a watermelon?")
-input('Press the any key')
-print("One's fun to smash with a hammer and the other is a watermelon!")
